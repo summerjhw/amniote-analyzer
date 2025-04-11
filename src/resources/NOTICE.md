@@ -21,7 +21,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 ## Code Licensing
 
 All code in this repository is licensed separately from the images.  
-See the [LICENSE](./LICENSE) file for details.
+See the [LICENSE](../../LICENSE) file for details.
 
 > TL;DR: Code and images are **not the same license** — follow the correct one for each!
 

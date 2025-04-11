@@ -8,6 +8,8 @@ Unless otherwise stated, images are licensed under:
 **Creative Commons Attribution-ShareAlike 3.0 or 4.0 International (CC BY-SA)**  
 https://creativecommons.org/licenses/by-sa/4.0/
 
+For links to images, see [CREDITS](./../credits.md)
+
 ## Attribution
 
 | Image File | Title / Description | Author(s) | License |

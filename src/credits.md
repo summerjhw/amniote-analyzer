@@ -20,5 +20,6 @@ The following media were used in this project:
 - Diagram of synapsid skulls (Figure_29_04_02-1024x217) By Amson, E. and Laurin, M. - Amson, E. and Laurin, M. 2011. On the affinities of Tetraceratops insignis, an Early Permian synapsid. Acta Palaeontologica Polonica 56 (2): 301–312., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=53654702
 
 
+- Photo of a Utaraptor By Jaren Wilkey - BYU PHOTO, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87946266
 
 All modified versions of the image or datasets derived from it are also shared under the same license.
